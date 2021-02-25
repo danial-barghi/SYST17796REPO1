@@ -1,3 +1,4 @@
+// This code was edited
 package weathertemp;
 
 public class WeatherTemp {
